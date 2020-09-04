@@ -1,0 +1,15 @@
+{
+  "name": "xmltest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ajaxxmlhttpre.js",
+  "scripts": {
+    "test": "node "
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
+}
